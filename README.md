@@ -1,5 +1,7 @@
 # Kingdee SQL Server MCP
 
+**简体中文** | [English](README.en.md)
+
 一个通过 MCP stdio 连接 Microsoft SQL Server 的只读服务，为支持 MCP 的 AI 助手提供 SQL Server 元数据查询，以及金蝶云星空表单结构和单据只读查看能力。
 
 ## 功能
@@ -108,4 +110,3 @@ cwd = "C:/path/to/kingdee-sqlserver-mcp"
 ## 许可
 
 仓库未附带开源许可证。公开可见不代表授予复制、修改或分发许可；如需采用，请先联系仓库维护者确认授权。
-
